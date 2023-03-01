@@ -1,0 +1,14 @@
+{
+  "name": "opencc_js_data",
+  "version": "1.0.0",
+  "description": "A Javascript version of data of Open Chinese Convert (OpenCC)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "opencc-data": "~1.0.8"
+  }
+}
